@@ -1,0 +1,236 @@
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+
+body{
+  
+  overflow-x: hidden;
+ 
+
+}
+
+.M1 {
+    position: fixed;
+    z-index: 900;
+    width: 100%;
+}
+
+.bg-portafolio{
+background-color: rgba(9, 166, 228, 0.801);
+}
+
+.primeraSeccion   
+{
+
+   background:url(../image/3.fondo.png),
+   linear-gradient(0deg,rgba(255, 255, 255, 1) 0%,rgb(215, 213, 226) 95%);
+   height: 835PX;
+   width: 100%;
+
+}
+
+
+ 
+.primeraSeccion   h1
+{
+
+   padding: 18%;
+
+}
+
+.primeraSeccion   h2{
+    margin-left: 10%;
+}
+.primeraSeccion   h3{
+  margin-left: 18%;
+}
+
+#separador1 {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+#separador1 .content{
+width: 150%;
+height: 100px;
+margin-left: -25%;
+border-bottom-left-radius: 50%;
+border-bottom-right-radius: 50%;
+}
+
+
+.primeraSeccion h1,h2, h3{
+
+  color: blue;
+
+}
+.segundaSeccion  
+ 
+{
+
+ font-size: 25px;
+text-align: justify;
+
+
+}
+*/
+
+.M2{
+
+  background: url(../image/bg-04.png);
+  background-color: #ffffdb86;
+  background-size: 60px 60px;
+  width: 100%;
+
+}
+
+
+    
+  
+  .quintaSeccion   
+{
+
+   background:url(../image/4.footer.png),
+   linear-gradient(0deg,rgba(255, 255, 255, 1) 0%,rgb(215, 213, 226) 95%);
+   height: 850PX;
+   width: 100%;
+
+}
+.quintaSeccion img  
+{
+
+   padding: 20%;
+   margin-left: 18%;
+   width: 100%;
+   height:100% ;
+}
+
+
+.quintaSeccion  h2  
+{
+
+ text-align: centers;
+
+}
+
+#footer{
+  background: url(../image/bg-04.png);
+  background-color: #e09018;
+  background-size: 50px 50px;
+}
+#pa{
+  width: 5%;
+  height:5%
+
+
+}
+#ref  {
+
+  background: rgba(255,255,255);
+  background: url(../image/bg-02.png), linear-gradient(0deg, #ffffff 0%, #63c4ff 57%);
+  background-repeat:  repeat-x;
+  background-size: 75%;
+  }
+  .seccionA {
+
+    background: rgb(235, 64, 64);
+   
+    
+  }
+
+ .seccionA H3{
+color: aliceblue;
+   
+padding-top: 10%;
+    font-size: 25px;
+    text-align: center;
+  }
+.seccionB{
+
+  background: rgb(25, 59, 2);
+
+}
+
+.seccionB H3{
+  color: aliceblue;
+     
+  padding-top: 10%;
+      font-size: 25px;
+      text-align: center;
+    }
+
+    .card-border{
+      border: solid 10px white;
+       border-radius: 20px;
+       overflow: hidden;
+       transition: all ease-out 0.2s;
+      
+      }
+      .card-border:hover{
+      transform: scale(1.05);
+      
+      }
+
+      .S1{
+
+        background-color:  #e49f37;
+        width: 100%;
+        height: 1600PX;
+      }
+
+      .S2{
+        text-align: center;
+      }
+      .S3{
+        text-align: left;
+        margin-left: 350px;
+      }
+
+      .S4{
+        text-align: justify;
+      
+      }
+
+      
+      .S7{
+        width: 6px;
+      
+      }
+
+      .S9{
+
+        background-color: #f8d020;
+        width: 100%;
+        height: 1200PX;
+      }
+
+      .mb-3{
+
+        color: aliceblue;
+      }
+      
+      .alo{
+
+       text-align: center;
+      }
+      #texto{
+        color: aliceblue;
+
+      }
+      #wassap{
+        position:fixed;
+        width: 20px;
+        right: 20px;
+        bottom:20px;
+    
+
+      }
+
+      /**clausiula postion relative
+      content"" ( vacio 
+      ancho 200 px 
+      alto " 400 px
+      bacgrun: para revisar el espacio 
+      z index; para que quede sobre puesto **/
+      
